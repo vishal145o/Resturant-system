@@ -1,4 +1,4 @@
-# Restaurant Basic Student Project (MySQL DB + Add to Cart)
+# Resturant Basic Student Project (MySQL DB + Add to Cart)
 
 This is a simple, college-level project using basic concepts **with DB persistence**.
 
